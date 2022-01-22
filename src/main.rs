@@ -1,8 +1,13 @@
 #![allow(non_snake_case)]
 // mod print;
 // mod vars;
-mod types;
+// mod types;
+// mod strings;
+// mod tuples;
+// mod arrays;
+// mod vectors;
+mod conditions;
 
 fn main() {
-    types::run();
+    conditions::run();
 }
